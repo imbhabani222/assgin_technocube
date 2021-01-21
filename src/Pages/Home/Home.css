@@ -1,4 +1,8 @@
-
+.Home{
+  background-image: url("../../bg-intro-desktop.png");
+    background-color: #fc5541;
+    padding: 50px;
+}
 
 
 label {
@@ -26,8 +30,6 @@ label {
   }
   
   html {
-    background-image: url("../../bg-intro-desktop.png");
-    background-color: #fc5541;
     padding: 50px;
   }
   

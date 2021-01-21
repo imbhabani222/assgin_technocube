@@ -7,7 +7,7 @@ const Home = () => {
         history.push("/dashboard");
     }
     return (
-        <div>
+        <div className="Home">
 
             <div className="row">
                 <div className="col">
